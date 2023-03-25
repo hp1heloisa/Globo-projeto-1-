@@ -1,0 +1,256 @@
+.caixona {
+  font-family: "Encode Sans", sans-serif;
+  display: flex;
+  width: 1500px;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logoglobo {
+  width: 171px;
+  height: 36px;
+}
+.maior {
+  display: flex;
+  justify-content: center;
+  width: 1600px;
+  height: 44px;
+  border-top: 1px solid #f5f6f7;
+  border-bottom: 1px solid #f5f6f7;
+}
+.acessos {
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  align-items: center;
+  width: 1300px;
+}
+.g1 {
+  color: #c3170c;
+}
+.oglobo {
+  color: #1e4b9b;
+}
+.valor {
+  color: #006766;
+}
+.ge {
+  color: #07aa47;
+}
+.cartola {
+  color: #e3662b;
+}
+.globoplay {
+  color: #fb0735;
+}
+.dropz {
+  color: #ff75bb;
+}
+.gshow {
+  color: #ec7d00;
+}
+.quem {
+  color: #323333;
+}
+.receitas {
+  color: #a81d83;
+}
+.caixanoticias {
+  width: 1300px;
+  display: flex;
+  justify-content: space-between;
+}
+.notprincipal {
+  width: 624px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #ebedef;
+}
+.vacinados {
+  font-size: 52px;
+  color: #c4160c;
+  font-weight: 700;
+  line-height: 67px;
+  letter-spacing: -0.01em;
+  margin-top: 34px;
+  margin-bottom: 29px;
+}
+.notfotos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 624px;
+}
+.esquerdabaixa {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 624px;
+  border-top: 1px solid #ebedef;
+}
+.fotoleft {
+  width: 193px;
+  height: 110px;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+.fotoright {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+}
+.notleft {
+  width: 193px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.noticiasdireita {
+  display: flex;
+  justify-content: space-between;
+}
+.center {
+  width: 310px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 36px;
+  border-right: 1px solid #ebedef;
+  border-left: 1px solid #ebedef;
+}
+.notcenter {
+  width: 240px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.right {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 36px;
+}
+.notright {
+  width: 240px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.titulovermelho {
+  color: #c4170c;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  margin-top: 11px;
+  margin-bottom: 6px;
+}
+.titulovermelhosem {
+  color: #c4170c;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  margin-top: 25px;
+  margin-bottom: 6px;
+}
+.tituloverde {
+  color: #16ae54;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  margin-top: 11px;
+  margin-bottom: 6px;
+}
+.titulolaranja {
+  color: #ec8006;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  margin-top: 11px;
+  margin-bottom: 6px;
+}
+.negrito {
+  color: #2f3134;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  margin-top: 6px;
+  margin-bottom: 4.5px;
+}
+.resumo {
+  color: #2f3134;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  margin-bottom: 36px;
+  margin-top: 4.5px;
+}
+.blanche {
+  color: #2f3134;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  margin-bottom: 0px;
+  margin-top: 4.5px;
+}
+.gabriel {
+  color: #2f3134;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  margin-bottom: 36px;
+}
+.ministros {
+  color: #303134;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 5px;
+  letter-spacing: -0.01em;
+  margin-top: 29px;
+  margin-bottom: 20px;
+}
+.bandeiras {
+  color: #303134;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 5px;
+  letter-spacing: -0.01em;
+  margin-bottom: 25px;
+}
+a {
+  text-decoration: none;
+}
+p:hover {
+  text-decoration: underline;
+}
+img:hover {
+  box-shadow: 1px 5px 10px grey;
+}
+.logoglobo:hover {
+  box-shadow: none;
+}
